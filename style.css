@@ -1,0 +1,57 @@
+*{
+    background-color: #5c0386;
+    text-align: center;
+}
+
+.search-box{
+    margin-top: 2%;
+    background-color: #9c4ec3;
+    color: #4c3535;
+    height: 45px;
+    font-size: 20px;
+    width: 275px;
+    border-bottom: 4px solid #df8f01;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.search-box:hover{
+    background-color: white;
+    box-shadow: 5px 5px #df8f01;
+    color: #5c0386;
+    font-weight: 900;
+}
+
+.location{
+    padding: 5%;
+    color: white;
+}
+
+.city{
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.date{
+    font-size: 20px;
+}
+
+.temp{
+    font-size: 75px;
+    font-weight: 900;
+    color: white;
+    margin-bottom: 5%;
+}
+
+.weather{
+    color: white;
+    font-size: 45px;
+    font-weight: 900;
+    margin-bottom: 1%;
+    font-style: italic;
+}
+
+.hi-low{
+    color: white;
+    font-size: 25px;
+}
